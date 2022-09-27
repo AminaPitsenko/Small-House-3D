@@ -1,0 +1,1 @@
+This is my 3D model of a small stylised house. Actually, I did it with tutorial on YouTube by Denis Kozhar. But I really like the result. You can see the blend file in this repository and the png file, that shows final result of the rendering.
